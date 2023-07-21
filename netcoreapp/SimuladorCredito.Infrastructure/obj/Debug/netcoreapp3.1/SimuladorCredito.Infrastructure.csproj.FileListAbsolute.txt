@@ -1,0 +1,15 @@
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\bin\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.deps.json
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\bin\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.dll
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\bin\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.pdb
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\bin\Debug\netcoreapp3.1\SimuladorCredito.Domain.dll
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\bin\Debug\netcoreapp3.1\SimuladorCredito.Utils.dll
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\bin\Debug\netcoreapp3.1\SimuladorCredito.Domain.pdb
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\bin\Debug\netcoreapp3.1\SimuladorCredito.Utils.pdb
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.csproj.AssemblyReference.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.AssemblyInfo.cs
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.csproj.CopyComplete
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.dll
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Infrastructure\obj\Debug\netcoreapp3.1\SimuladorCredito.Infrastructure.pdb

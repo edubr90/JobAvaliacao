@@ -1,0 +1,13 @@
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\bin\Debug\netcoreapp3.1\SimuladorCredito.Domain.deps.json
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\bin\Debug\netcoreapp3.1\SimuladorCredito.Domain.dll
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\bin\Debug\netcoreapp3.1\SimuladorCredito.Domain.pdb
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\bin\Debug\netcoreapp3.1\SimuladorCredito.Utils.dll
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\bin\Debug\netcoreapp3.1\SimuladorCredito.Utils.pdb
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.csproj.AssemblyReference.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.AssemblyInfoInputs.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.AssemblyInfo.cs
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.csproj.CopyComplete
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.dll
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\netcoreapp3.1\SimuladorCredito.Domain.pdb

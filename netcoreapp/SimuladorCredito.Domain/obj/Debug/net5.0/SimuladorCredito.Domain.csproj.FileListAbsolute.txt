@@ -1,0 +1,5 @@
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\net5.0\SimuladorCredito.Domain.csproj.AssemblyReference.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\net5.0\SimuladorCredito.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\net5.0\SimuladorCredito.Domain.AssemblyInfoInputs.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\net5.0\SimuladorCredito.Domain.AssemblyInfo.cs
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.Domain\obj\Debug\net5.0\SimuladorCredito.Domain.csproj.CoreCompileInputs.cache

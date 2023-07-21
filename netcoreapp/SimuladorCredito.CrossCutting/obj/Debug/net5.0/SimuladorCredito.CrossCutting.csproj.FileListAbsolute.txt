@@ -1,0 +1,5 @@
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.CrossCutting\obj\Debug\net5.0\SimuladorCredito.CrossCutting.csproj.AssemblyReference.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.CrossCutting\obj\Debug\net5.0\SimuladorCredito.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.CrossCutting\obj\Debug\net5.0\SimuladorCredito.CrossCutting.AssemblyInfoInputs.cache
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.CrossCutting\obj\Debug\net5.0\SimuladorCredito.CrossCutting.AssemblyInfo.cs
+D:\Projetos\jobavaliacao\netcoreapp\SimuladorCredito.CrossCutting\obj\Debug\net5.0\SimuladorCredito.CrossCutting.csproj.CoreCompileInputs.cache
